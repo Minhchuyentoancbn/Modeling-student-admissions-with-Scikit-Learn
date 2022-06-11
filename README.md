@@ -4,6 +4,10 @@ A simple model that predicts admission to graduate schools.
 # Dataset
 Source: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?select=Admission_Predict.csv
 
-# Language: Python
+# Language 
+Python
 
-# Libraries: Pandas, Numpy and Scikit-learn
+# Libraries: 
+- Pandas 
+- Numpy 
+- Scikit-learn
